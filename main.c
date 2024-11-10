@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello world!");
+    printf("Olá mundo do Git/GitHub!");
     return 0;
 }
 
